@@ -10,7 +10,7 @@
  
  
 ### This projects goal is simple: 
-### Provoide a starter that can be easily reused for rapid prototyping or a solid foundation.
+### Provide a starter that can be easily reused for rapid prototyping or a solid foundation.
 
 
 ### Why?
