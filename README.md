@@ -17,7 +17,9 @@
 
 Most projects follow similar patterns and a lot of time and energy wasted to bootstrap parts of your app that your customers expect but are not the core of your business.
 
-> Most apps just move data from one location to another...
+> Most apps just move data from one location to another.
+
+
 This project will launch your startup idea or business application using tools and patterns that are resillient and widely adopted.
 
 
