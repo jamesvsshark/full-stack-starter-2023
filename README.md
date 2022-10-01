@@ -6,6 +6,12 @@
 - Allow users to sign up and register
 - Has user based roles and policies
 - Collects and mutates data via forms
+- Mantains a consistent and pleasant user experience
+ 
+ 
+## This projects goal is simple: 
+### Provoide a starter that can be easily reused for rapid prototyping or a solid foundation.
+
 
 
 ### Why?
