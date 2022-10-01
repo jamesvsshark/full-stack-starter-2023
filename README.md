@@ -9,7 +9,7 @@
 - Mantains a consistent and pleasant user experience
  
  
-## This projects goal is simple: 
+### This projects goal is simple: 
 ### Provoide a starter that can be easily reused for rapid prototyping or a solid foundation.
 
 
