@@ -1,4 +1,4 @@
-# Starter 2023
+# npx full-stack-starter-2023
 ## The much needed starter but yet ahead of its time
 
 
@@ -13,10 +13,19 @@
 ### Provoide a starter that can be easily reused for rapid prototyping or a solid foundation.
 
 
-
 ### Why?
+
+Most projects follow similar patterns and a lot of time and energy wasted to bootstrap parts of your app that your customers expect but are not the core of your business.
+
+* Most apps just move data from one location to another... *
+This project will launch your startup idea or business application using tools and patterns that are resillient and widely adopted.
+
+
+### What?
 - Intialize AWS cloud infrastructure 
 - Create authenticated and unauthenticated roles
+- Provide UI examples and patterns to speed development
+
 
 
 ### How?
